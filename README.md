@@ -1,6 +1,6 @@
-# 👥 Customer360_SQL Project
-
-Welcome to the **Customer360_SQL Project**!
+# 👥 Customer Analysis SQL Project
+ 
+Welcome to the **Customer Analysis SQL Project**!
 
 This project showcases how to clean, transform, and analyze customer behavior data using SQL. It includes practical data preparation steps such as renaming columns, removing nulls and duplicates, and uncovering insights about customer income, age, gender, and spending patterns.
 
